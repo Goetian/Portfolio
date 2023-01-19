@@ -1,0 +1,29 @@
+
+        body {
+            background-color: #61876E;
+        }
+        hr {
+            border-bottom-width: 1ex;
+            border-style: dotted;
+            border-left-style: none;
+            border-top-style: none;
+            border-right-style: none;
+            border-color: #3C6255;
+            background-color: none;
+            width: 20%;
+           
+        }
+        img  {
+            height: 180px;
+           
+        }
+        h1{
+            color: #EAE7B1;
+        }
+        p{
+
+            color: black;
+        }
+        td{
+            color: #EAE7B1;
+        }
